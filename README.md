@@ -1,4 +1,4 @@
-# AndroidBasic_Kotlin
+# 💙 AndroidBasic_Kotlin 💙
 
 - Android basics in Kotlin 코드랩 실습 업로드
 - 주 1회 Unit 2개씩
